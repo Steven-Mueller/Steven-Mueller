@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mein Name ist Steven
 =====================================================================================================================================
 
-Developer mit Leib und Seele <(\*.\*<)
+I LOVE TO CODE <(\*.\*<)
 --------------------------------------
 
-Derzeit absolviere ich meinen Lehrgang zum Full Stack Developer (MERN) beim DCI 👌
+Learning Java the practical way right now, theory is exhausting👌
 
-* 🌍  Ansässig in Görlitz, Sachsen
+* 🌍  Germany - Saxony
 * ✉️  Email: [steven91muellermueller@web.de](mailto:steven91muellermueller@web.de)
-* 🧠  Derzeit lerne ich das Arbeiten in Teams an größeren Projekten (unserem Abschlussprojekt)
+* 🧠  Certified MERN Stack Developer since 01/2025
 
 ### Skills
 
