@@ -5,7 +5,7 @@ My name is Steven
 (>\*.\*> I LOVE TO CODE <(\*.\*<)
 -----------------------------
 
-Learning Java the practical way right now, theory is exhausting👌
+Learning Java the practical way right now, theory is just exhausting 🫡
 
 * 🌍  Germany - Saxony
 * ✉️  Email: [steven91muellermueller@web.de](mailto:steven91muellermueller@web.de)
