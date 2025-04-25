@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mein Name ist Steven
 =====================================================================================================================================
 
-(>*.*> I LOVE TO CODE <(*.*<)
+(>\*.\*> I LOVE TO CODE <(\*.\*<)
 -----------------------------
 
 Learning Java the practical way right now, theory is exhausting👌
