@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Steven
 ===============================================================================================================================
 
-(>\*.\*> Satisfied by code that matters <(\*.\*<)
+(>\*.\*)> Satisfied by code that matters <(\*.\*<)
 -------------------------------------------------
 
 Write a little code 💻 -> Do a little dance 🕺 -> Realize nothing works as expected 🤔 -> Fix it ✨ -> Repeat 🗿
