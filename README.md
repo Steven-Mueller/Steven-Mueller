@@ -2,10 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Steven
 ===============================================================================================================================
 
-(>\*.\*> I LOVE TO CODE <(\*.\*<)
------------------------------
+(>\*.\*> Satisfied by code that matters <(\*.\*<)
+-------------------------------------------------
 
-Learning Java the practical way right now, theory is just exhausting 🫡
+Write a little code 💻 -> Do a little dance 🕺 -> Realize nothing works as expected 🤔 -> Fix it ✨ -> Repeat 🗿
 
 * 🌍  Germany - Saxony
 * ✉️  Email: [steven91muellermueller@web.de](mailto:steven91muellermueller@web.de)
