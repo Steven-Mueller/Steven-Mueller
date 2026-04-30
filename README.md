@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on an HR Management Application using React + TailwindCSS & Java Spring Boot
+Currently working on a HR Management Application using React + TailwindCSS & Java Spring Boot
 
 
 # 💻 Tech Stack:
