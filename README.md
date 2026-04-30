@@ -9,4 +9,5 @@ Currently working on a HR Management Application using React + TailwindCSS & Jav
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
+# 📷 Describing myself with a picture
 ![Me](https://media1.tenor.com/m/oJKQsEPQrYIAAAAC/spongebob-spongebob-squarepants.gif)
